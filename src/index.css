@@ -91,6 +91,16 @@ All colors MUST be HSL.
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Cybersecurity themed colors */
+    --cyber-green: 120 100% 25%;
+    --cyber-green-light: 120 60% 50%;
+    --cyber-red: 0 100% 50%;
+    --cyber-blue: 240 100% 60%;
+    --cyber-purple: 280 100% 70%;
+    --cyber-orange: 30 100% 50%;
+    --matrix-bg: 120 100% 5%;
+    --terminal-green: 120 100% 40%;
   }
 }
 
